@@ -8,6 +8,8 @@ Slides, code and links for my talk at the Python conference in Bangkok.
 
 ## Links
 
+[Project Murphy](https://www.projectmurphy.net/)
+
 [LINE Developer & API](https://developers.line.me/en/)
 
 [Uli on LinkedIn](https://www.linkedin.com/in/uhitzel/)
