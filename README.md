@@ -13,3 +13,6 @@ Slides, code and links for my talk at the Python conference in Bangkok.
 [Uli on LinkedIn](https://www.linkedin.com/in/uhitzel/)
 
 [Uli on Twitter](https://twitter.com/u1i)
+
+[Some of my hacks](http://hacks.sotong.io)
+
