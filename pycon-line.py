@@ -18,9 +18,9 @@ def pyconbkk():
 
     joke = sj[random.randint(0,len(sj)-1)]
 
-    # Post reply to LINE
+    # Post reply to LINE - add your token to access_token
     endpoint = "https://api.line.me/v2/bot/message/reply"
-    access_token = "PMX4tDO+xS+DdGrGuecmJ+TWxa8VQQ4AgjYAvAxLRr64b9Hu2qxKSIVj6Xh8At0v8mSbxSLfUQdTAkG5hk2HjEdsfHZkDeEuS1x6wcea0EsJ1RaUvqE0VkGGK5Qp7naDf3CneaPN2TO1NPl2lNfAWwdB04t89/1O/w1cDnyilFU="
+    access_token = ""
     send_text = "Hello, what's cooking? Here is a joke you might enjoy: " + joke
     payload = "{\n    \"replyToken\":\"" + line_token + "\",\n    \"messages\":[\n        {\n            \"type\":\"text\",\n            \"text\":\"" + send_text + "\"\n        }\n    ]\n}"
     headers = {
