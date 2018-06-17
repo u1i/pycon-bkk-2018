@@ -4,7 +4,7 @@ Slides, code and links for my talk at the Python conference in Bangkok.
 
 ## Slides
 
-( coming soon! )
+[PDF](https://github.com/u1i/pycon-bkk-2018/blob/master/PyCon%20TH%20Uli%2020180617.pdf?raw=true)
 
 ## Links
 
